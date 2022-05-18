@@ -7,6 +7,8 @@ use Cake\ORM\Table;
 use Cake\Utility\Text;
 // the EventInterface class
 use Cake\Event\EventInterface;
+// the Validator class
+use Cake\Validation\Validator;
 
 class ArticlesTable extends Table
 {
